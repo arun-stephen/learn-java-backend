@@ -7,21 +7,22 @@ and REST API development. We'll also cover servlets, Spring, and Hibernate. By m
 Java backend project
 </div>
 
+
 ><p style="text-align: justify;">For well-rounded backend expertise, explore these additional skills:</p>
 <div style="text-align: justify;">
-<span style="font-weight:bold">Database:</span> Master relational databases (Oracle, MS SQL, MySQL, PostgreSQL, etc.) or NoSQL (MongoDB, Cassandra, GraphQL) for data persistence.<br>
-<span style="font-weight:bold">Messaging:</span> Learn RabbitMQ or Apache Kafka for asynchronous communication between services.<br>
-<span style="font-weight:bold">Testing:</span> Write unit and integration tests (JUnit) for robust code.<br>
-<span style="font-weight:bold">Cloud:</span> Explore platforms like AWS or Azure for deployment and scalability.<br>
+<b>Database:</b> Master relational databases (Oracle, MS SQL, MySQL, PostgreSQL, etc.) or NoSQL (MongoDB, Cassandra, GraphQL) for data persistence.<br>
+<b>Messaging:</b> Learn RabbitMQ or Apache Kafka for asynchronous communication between services.<br>
+<b>Testing:</b> Write unit and integration tests (JUnit) for robust code.<br>
+<b>Cloud:</b> Explore platforms like AWS or Azure for deployment and scalability.<br>
 </div>
 <br>
 
 <div style="text-align: justify;">
 JavaFX, the open-source Java library for building desktop and mobile applications, might seem like a relic compared to modern frameworks. But here's why it's worth a second look:
 
-<span style="font-weight:bold">Rich UI's:</span> Build beautiful, hardware-accelerated interfaces effortlessly. Animations, effects, and smooth interactions are a breeze.<br>
-<span style="font-weight:bold">Cross-Platform:</span> Run JavaFX apps flawlessly on Windows, macOS, and Linux without platform-specific code.<br>
-<span style="font-weight:bold">Modern Development:</span> Design UIs visually with the JavaFX Scene Builder, streamlining your workflow.<br>
+<b>Rich UI's:</b> Build beautiful, hardware-accelerated interfaces effortlessly. Animations, effects, and smooth interactions are a breeze.<br>
+<b>Cross-Platform:</b> Run JavaFX apps flawlessly on Windows, macOS, and Linux without platform-specific code.<br>
+<b>Modern Development:</b> Design UIs visually with the JavaFX Scene Builder, streamlining your workflow.<br>
 </div>
 
 
