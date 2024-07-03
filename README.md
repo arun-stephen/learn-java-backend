@@ -6,7 +6,7 @@ collections, enums, generics, streams, lambdas, functional interfaces, concurren
 and REST API development. We'll also cover servlets, Spring, and Hibernate. By mastering these concepts, you'll be equipped to tackle any
 Java backend project
 </div>
-
+<br>
 
 ><p style="text-align: justify;">For well-rounded backend expertise, explore these additional skills:</p>
 <div style="text-align: justify;">
@@ -24,7 +24,7 @@ JavaFX, the open-source Java library for building desktop and mobile application
 <b>Cross-Platform:</b> Run JavaFX apps flawlessly on Windows, macOS, and Linux without platform-specific code.<br>
 <b>Modern Development:</b> Design UIs visually with the JavaFX Scene Builder, streamlining your workflow.<br>
 </div>
-
+<br>
 
 ><p style="text-align: justify;">Here are the list of topics we are going to cover from this repository.</p>
 1. [Java Core Programming](https://github.com/arun-stephen/learn-java-backend/tree/master/01-java-basic)
@@ -64,6 +64,7 @@ It offers free public repositories and paid plans for private repositories with 
    * `GitLab` is another popular VCS platform that offers similar functionalities to GitHub, including public and private repositories, issue tracking, and project management tools.
    * `Bitbucket` is another Git-based repository hosting service often used by enterprises due to its focus on security and access control.
 </div>
+<br>
 
 > <p style="text-align: justify;">The following software needs to be installed before you begin this course.</p>
 <div style="text-align: justify;">
@@ -76,6 +77,7 @@ It offers free public repositories and paid plans for private repositories with 
 
 Follow this [document](https://github.com/arun-stephen/learn-java-backend/blob/master/INSTALLATION_GUIDE.md) to install the required software on your system.
 </div>
+<br>
 
 > <p style="text-align: justify;">This repository intent for those who really want to explore on the below areas:</p>
 <div style="text-align: justify;">
@@ -86,5 +88,6 @@ Follow this [document](https://github.com/arun-stephen/learn-java-backend/blob/m
 * Focusing on interview skills and boosting your programming abilities.
 * Learning with real-world program examples.
 </div>
+<br>
 
 ><p style="text-align: justify;"><b>Useful Tips:</b> <i>Before diving into code examples, skim the PDF to grasp the concepts. I've added the PDF in each respective module, which will help you understand the code much easier.Then, try running the code yourself. This hands-on approach reinforces understanding and prevents you from missing key logic. Remember to explore all code examples for their respective topics to build confidence in writing your own programs.</i></p>
